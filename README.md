@@ -1,9 +1,5 @@
 Sagar D Patil
 
-
-
-
-https:// www.linkedin.com/in/sagarpatilpune
 name: Sagar D Patil
 Address: Pune, Maharashtra, India.
 title: Senior IAM Engineer
