@@ -1,13 +1,17 @@
-# portfolio-
-
 Sagar D Patil
-Pune, Maharashtra, India.
-+91-7276-303-146
-sagarpatil00710@gmail.com
+
+
+
+
 https:// www.linkedin.com/in/sagarpatilpune
+name: Sagar D Patil
+Address: Pune, Maharashtra, India.
+title: Senior IAM Engineer
+email: sagarpatil00710@gmail.com
+phone: +91-7276-303-146
+website: https:// www.linkedin.com/in/sagarpatilpune
 
-
-Skills
+**Skills**
 •	Identity lifecycle and governance- Segregation of Duties (SOD), Role-Based Access Control (RBAC), and Provisioning-Reconciliation.
 •	MFA and SSO (Single Sign-On)
 •	Access Management
@@ -21,15 +25,15 @@ Skills
 •	Scripting: Java(beginner)
 •	Technologies known: Okta, Cisco Duo, ForgeRock Open AM, CIAM, SailPoint IIQ, Swivel Secure, OneLogin, BeyondTrust, MiniOrange, Sectona.
 
-Languages
+**Languages**
 -English (fluent)
 -Hindi
 -Marathi
 
-Profile
+**Profile**
 Seeking to expand my horizons into the ocean of Information Security with a deep focus on Identity lifecycle and governance, Role based access control (RBAC), Federation technologies-SAML, OAuth, OIDC, Single Sign-On (SSO) and Multifactor Authentication (MFA), Security Compliance and Advisory. A dynamic, hardworking, proactive, and efficient leader with a strong teamwork ethic and multitasking skills.
 
-Work Experience
+**Work Experience**
 Senior Security Engineer, Inspira Enterprise / Pune, India / February 2022-Present
 •	Successfully implemented two IAM solutions for customers in the Middle East (telecommunications and transportation sectors).
 •	Currently working on following projects simultaneously as follows:
@@ -56,11 +60,11 @@ Electronic Engineer (CAD-CAM Dept.), Shogini Technoarts Pvt. Ltd., Pune. / Decem
    Electronic Engineer (CAD-CAM Dept.), Softind Solutions LLP, Pune. / January 2017 – October 2017.
 •	Working on Singe Side & Double side PCB, editing Gerber files to make it suitable for production.
 
-Education
+**Education**
 
 -	B.E. (Electronics & Telecommunication) / Savitribai Phule Pune University, India / June 2016
 
-Certifications/Technical Accreditations
+**Certifications/Technical Accreditations**
 
 
 Serial No.	Title	Certification Provider	Month and Year of Completion
@@ -75,7 +79,7 @@ Architect - Associate	AWS	July 2022
 8.	Swivel Secure Access Manager	Swivel Secure	May 2022
 9.	Certified Ethical Hacker (V11)	EC – Council	December 2021
 
-Milestones / Achievements:
+**Milestones / Achievements:**
 
 •	Won 2nd Price in Inspira Indoor Chess Competition 
 	
