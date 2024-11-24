@@ -1,20 +1,8 @@
 title: Sagar D. Patil
 logo: assets/images/dp.png
 
-# Below are badges associated with my profile:
-badges:
-  - BT Image: assets/images/BT.png
-  - BT Admin Image: assets/images/BTadmin.png
-  - Cisco Image: assets/images/Cisco.png
-  - FR Image: assets/images/FR.png
-  - Miniorange Image: assets/images/miniorange.png
-  - Okta Image: assets/images/okta.png
-  - Sectona Image: assets/images/Sectona.png
-  - Sailpoint Image: assets/images/sailpoint.png
-  - Onelogin Image: assets/images/Onelogin.png
-
 description: "Identity & Access Management Professional (Information Security)"
-show_downloads: true
+show_downloads: false
 
 # Download My Portfolio
 # You can download my portfolio as a PDF by clicking the link below:
