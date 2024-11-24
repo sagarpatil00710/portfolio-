@@ -80,15 +80,11 @@ Certifications/Technical Accreditations
 
 
 
-**Languages**:
-
-     -English (fluent)
-     
-     -Hindi
-     
-     -Marathi
-     
-     -Kannada
+**Languages**:  
+         -English       
+         -Hindi  
+         -Marathi    
+         -Kannada
 
 
  **Milestones / Achievements**: 	Won 2nd Price in Inspira Indoor Chess Competition 
