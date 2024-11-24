@@ -4,31 +4,6 @@ logo: assets/images/dp.png
 description: "Identity & Access Management Professional (Information Security)"
 show_downloads: false
 
-# Portfolio Download
-portfolio_pdf: "assets/downloads/portfolio.pdf"
-
-
-# Badges Configuration
-badges:
-  - image: "assets/images/BT.png"
-    alt: "BT Badge"
-  - image: "assets/images/BTadmin.png"
-    alt: "BT Admin Badge"
-  - image: "assets/images/Cisco.png"
-    alt: "Cisco Badge"
-  - image: "assets/images/FR.png"
-    alt: "FR Badge"
-  - image: "assets/images/miniorange.png"
-    alt: "MiniOrange Badge"
-  - image: "assets/images/okta.png"
-    alt: "Okta Badge"
-  - image: "assets/images/Sectona.png"
-    alt: "Sectona Badge"
-  - image: "assets/images/sailpoint.png"
-    alt: "Sailpoint Badge"
-  - image: "assets/images/Onelogin.png"
-    alt: "Onelogin Badge"
-
 # Navigation links (Optional)
 nav:
   - text: "Home"
@@ -40,7 +15,5 @@ nav:
   - text: "Portfolio"
     url: "/portfolio"
 
-
-    
 # Theme Configuration
 theme: jekyll-theme-minimal
