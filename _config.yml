@@ -1,5 +1,10 @@
 title: Sagar D. Patil
-logo: dp.png
+logo: assets/img/dp.png
+Below are badges associated with my profile:
+
+![Image 1](assets/img/dp1.png)  
+![Image 2](assets/img/dp2.png)  
+![Image 3](assets/img/dp3.png)  
 description: Identity & Access Management Professional(Information Security)
 show_downloads: false
 theme: jekyll-theme-minimal
