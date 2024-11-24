@@ -7,8 +7,6 @@ show_downloads: true
 # Portfolio Download
 portfolio_pdf: "assets/downloads/portfolio.pdf"
 
-# Theme Configuration
-theme: jekyll-theme-minimal
 
 # Badges Configuration
 badges:
@@ -41,3 +39,8 @@ nav:
     url: "/blog"
   - text: "Portfolio"
     url: "/portfolio"
+
+
+    
+# Theme Configuration
+theme: jekyll-theme-minimal
