@@ -1,23 +1,23 @@
 title: Sagar D. Patil
 logo: assets/img/dp.png
-Below are badges associated with my profile:
 
-![BT Image](assets/img/BT.png)  
-![BT Admin Image](assets/img/BTadmin.png)  
-![Cisco Image](assets/img/Cisco.png)  
-![FR Image](assets/img/FR.png)  
-![Miniorange Image](assets/img/miniorange.png)  
-![Okta Image](assets/img/okta.png)  
-![Sectona Image](assets/img/sectona.png)  
-![Sailpoint Image](assets/img/sailpoint.png)  
-![Onelogin Image](assets/img/onelogin.png)  
+# Below are badges associated with my profile:
+badges:
+  - BT Image: "assets/img/BT.png"
+  - BT Admin Image: "assets/img/BTadmin.png"
+  - Cisco Image: "assets/img/Cisco.png"
+  - FR Image: "assets/img/FR.png"
+  - Miniorange Image: "assets/img/miniorange.png"
+  - Okta Image: "assets/img/okta.png"
+  - Sectona Image: "assets/img/sectona.png"
+  - Sailpoint Image: "assets/img/sailpoint.png"
+  - Onelogin Image: "assets/img/onelogin.png"
 
-description: Identity & Access Management Professional(Information Security)
+description: "Identity & Access Management Professional (Information Security)"
 show_downloads: true
-### Download My Portfolio
-#You can download my portfolio as a PDF by clicking the link below:
 
-#[Download Portfolio PDF](assets/downloads/portfolio.pdf)
+# Download My Portfolio
+# You can download my portfolio as a PDF by clicking the link below:
+portfolio_pdf: "assets/downloads/portfolio.pdf"
+
 theme: jekyll-theme-minimal
-
-
