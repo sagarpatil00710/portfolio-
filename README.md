@@ -13,6 +13,7 @@ Sagar D Patil
 
 -------------------     ----------------------------
 **Profile**
+
 ---------
 Seeking to expand my horizons into the ocean of Information Security with a deep focus on Identity lifecycle and governance, Role based access control (RBAC), Federation technologies-SAML, OAuth, OIDC, Single Sign-On (SSO) and Multifactor Authentication (MFA), Security Compliance and Advisory. A dynamic, hardworking, proactive, and efficient leader with strong teamwork ethic and multitasking skills.
 
