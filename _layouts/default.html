@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    /* Add some basic styles for the badges section */
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      padding: 20px 0;
+    }
+
+    .badge {
+      width: 100px;
+      height: auto;
+      margin: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Main Content -->
+  <header>
+    <h1>{{ page.title | default: site.title }}</h1>
+    <p>{{ page.description | default: site.description }}</p>
+  </header>
+
+  <section id="badges">
+    <h2>Badges</h2>
+    <div class="badges">
+      {% for badge in site.badges %}
+        <img src="{{ badge.image | relative_url }}" alt="{{ badge.alt }}" class="badge">
+      {% endfor %}
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Sagar D. Patil</p>
+  </footer>
+</body>
+
+</html>
