@@ -2,10 +2,9 @@ title: Sagar D. Patil
 logo: assets/images/dp.png
 
 description: "Identity & Access Management Professional (Information Security)"
-show_downloads: false
+show_downloads: true
 
 # Download My Portfolio
-# You can download my portfolio as a PDF by clicking the link below:
 portfolio_pdf: "assets/downloads/portfolio.pdf"
 
 theme: jekyll-theme-minimal
