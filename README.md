@@ -54,10 +54,11 @@ Savitribai Phule Pune University, India – June 2016
 ---
 
 ## Certifications/Technical Accreditations
+## Certifications and Technical Accreditations
 
 | **Serial No.** | **Title**                                     | **Certification Provider** | **Month and Year of Completion** |
 |----------------|-----------------------------------------------|----------------------------|----------------------------------|
-| 1.             | Certified Implementation Engineer             | BeyondTrust                | November 2024                    |
+| 1.             | Certified Implementation Engineer (Password Safe) | BeyondTrust                | November 2024                    |
 | 2.             | Password Safe Administrator                   | BeyondTrust                | September 2024                   |
 | 3.             | SailPoint IIQ Developer                       | Inspira (Internal assessment) | March 2024                       |
 | 4.             | Certified L1 Administrator                    | Cisco Duo Security         | February 2024                    |
@@ -66,6 +67,7 @@ Savitribai Phule Pune University, India – June 2016
 | 7.             | AWS Certified Solutions Architect - Associate | AWS                        | July 2022                        |
 | 8.             | Swivel Secure Access Manager                  | Swivel Secure              | May 2022                         |
 | 9.             | Certified Ethical Hacker (V11)                | EC – Council               | December 2021                    |
+
 
 ---
 
