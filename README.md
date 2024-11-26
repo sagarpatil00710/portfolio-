@@ -129,4 +129,4 @@ Savitribai Phule Pune University, India – June 2016
 ## Download My Portfolio
 
 You can download my portfolio as a PDF by clicking the link below:  
-[Download Portfolio](assets/downloads/portfolio.pdf)
+[Download Portfolio](assets/downloads/Portfolio.pdf)
