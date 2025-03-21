@@ -102,9 +102,14 @@ Savitribai Phule Pune University, India – June 2016
   <img src="assets/images/miniorange.png" alt="MiniOrange Badge" class="badge">
   <img src="assets/images/okta.png" alt="Okta Badge" class="badge">
   <img src="assets/images/Sectona.png" alt="Sectona Badge" class="badge">
-  <img src="assets/images/sailpoint.png" alt="Sailpoint Badge" class="badge">
   <img src="assets/images/Onelogin.png" alt="Onelogin Badge" class="badge">
+  <img src="assets/images/BTADadmin.png" alt="BT ADBRIDGE Admin Badge" class="badge">
+  <img src="assets/images/BTPRA.png" alt="BTPRA Admin Badge" class="badge">
+  <img src="assets/images/BT_EPM_WINDOWS.png" alt="BT_EPM_WINDOWS Admin Badge" class="badge">
+  <img src="assets/images/SailpointIIQAssociate.png" alt="SailpointIIQAssociate Badge" class="badge">
+  <img src="assets/images/Sailpointleader.png" alt="Sailpointleader Badge" class="badge">
 </div>
+
 
 <style>
   .badge-carousel {
