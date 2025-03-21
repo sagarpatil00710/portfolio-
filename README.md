@@ -63,7 +63,7 @@ Savitribai Phule Pune University, India – June 2016
 | 2.             | SailPoint Identity Security Leader            | SailPoint                  | February 2025                   |
 | 3.             | Endpoint Privilege Management - Windows Administrator | BeyondTrust            | January 2025                    |
 | 4.             | SailPoint IIQ Certified Associate             | SailPoint                  | December 2024                   |
-| 5.             | Password Safe Administrator                   | BeyondTrust                | December 2024                   |
+| 5.             | AD Bridge Administrator                       | BeyondTrust                | December 2024                   |
 | 6.             | Certified Implementation Engineer (Password Safe) | BeyondTrust              | November 2024                   |
 | 7.             | Password Safe Administrator                   | BeyondTrust                | September 2024                  |
 | 8.             | SailPoint IIQ Developer                       | Inspira (Internal assessment) | March 2024                    |
