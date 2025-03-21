@@ -39,12 +39,12 @@ Seeking to expand my horizons into the ocean of Information Security with a deep
 | **Serial No.** | **Role & Organization**                                             | **Duration**                   | **Key Responsibilities**                                                                                                     |
 |----------------|---------------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | **1.**         | Senior IAM Engineer, Wipro Limited, Pune, India                     | November 2024 – Present         | - Lead SailPoint IIQ implementation.<br> - Migration from OIM to IIQ.<br> - Managing IAM solutions for BFSI projects.<br> - Cross-functional team collaboration. |
-| **2.**         | Senior Security Engineer, Inspira Enterprise, Pune, India          | February 2022 – November 2024   | - Implemented IAM solutions in telecommunications & transportation.<br> - Led Okta SSO/MFA for energy sector.<br> - R&D on 3 IAM technologies. |
+| **2.**         | Senior Security Engineer, Inspira Enterprise, Pune, India          | February 2022 – November 2024   | - Implemented IAM solutions for telecommunications and transportation sectors in the Middle East.<br> - Leading Okta SSO/MFA for the energy sector in Australia and SailPoint IIQ for BFSI sector in the Middle East.<br> - Led R&D and practice building on 3 IAM technologies.<br> - Trained and mentored new team members.<br> - Interviewed candidates for IAM roles. |
 | **3.**         | Software Security Trainee, Algebra Security Solutions (Merged into Inspira Enterprises), Pune, India | December 2021 – February 2022   | - Gained knowledge of network security, information security, and Okta Access Management solutions.                           |
 | **4.**         | Electronics Engineer (Design Dept.), Electronics India, Pune, India | July 2018 – August 2021         | - Edited Gerber files and optimized PCB panels.<br> - Created CNC drilling programs.                                        |
 | **5.**         | Electronic Engineer (CAD-CAM Dept.), Shogini Technoarts Pvt. Ltd., Pune, India | December 2017 – May 2018        | - Worked on single and double-side PCBs.<br> - Edited Gerber files for production.                                          |
 | **6.**         | Electronic Engineer (CAD-CAM Dept.), Softind Solutions LLP, Pune, India | January 2017 – October 2017     | - Worked on single and double-side PCBs.<br> - Edited Gerber files for production compatibility.                              |
-                           
+                          
 
 
 ---
