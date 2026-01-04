@@ -11,46 +11,112 @@
 
 ---
 
-## Profile
+## 🔹 Professional Summary
 
-Identity & Access Management (IAM) professional with 8.5+ years of engineering experience, including 4+ years dedicated to IAM, PAM, and IGA solutions across BFSI and enterprise environments. Skilled in designing secure, scalable identity frameworks, managing access governance, and enabling compliance across cloud, hybrid, and on-premise infrastructures.
+IAM Engineer with **4+ years of hands-on experience** in **Identity and Access Management**, specializing in **SailPoint IdentityIQ (IIQ)** implementations and enterprise identity governance. Strong expertise in **application onboarding, Joiner–Mover–Leaver (JML) lifecycle automation, access certifications**, and **compliance-driven IAM controls (NIST, SoD)**.
 
----
-## Core Competencies:
+Experienced in **SSO/MFA solutions (Okta, Cisco Duo)**, federation protocols (**SAML, OAuth, OIDC**), and **Active Directory integrations**, with successful delivery across **BFSI and large enterprise environments**.
 
-- SailPoint IIQ – End-to-end application onboarding, JML lifecycle automation, access certifications, RBAC, SoD, custom rules, and policy enforcement
-
-- IAM / PAM / IGA – Enterprise-scale identity governance, privileged access management, workflow automation, and compliance enablement
-
-- SSO & MFA – Implementation and administration using Okta, Cisco Duo, OneLogin; expertise in SAML, OAuth, and OIDC integrations
-
-- PAM Solutions – BeyondTrust (Password Safe, PRA, EPM), Sectona; password vaulting, session management, and privileged account security
-
-- Directories & Platforms – Microsoft Entra ID (Azure AD), Active Directory, Linux, AWS, OCI; hybrid and cloud identity management
-
-- Compliance & Security Frameworks – NIST-aligned certification campaigns, Zero Trust, regulatory adherence, and IAM risk mitigation
-
-- Mentorship & Leadership – Guiding junior engineers, conducting PoCs, and building IAM practice across multiple enterprise projects
 
 ---
-## Skills
+## 🔹 Core Competencies
 
-- Identity lifecycle and governance: Segregation of Duties (SOD), Role-Based Access Control (RBAC), and Provisioning-Reconciliation.
-- MFA & SSO: Single Sign-On, Authentication Policies
-- Access Management & Federation: LDAP, Kerberos, SAML, OIDC
-- Cloud & Infrastructure: AWS, OCI, Microsoft Azure, PKI
-- Networking & Security: OSI model, firewall, VPNs, network security basics
-- Linux & Database: Linux administration, MySQL
-- Scripting & Automation: Java, Custom Rules & Workflows in SailPoint IIQ
-- Firewall and Network Security
-- Linux
-- MySQL
-- Scripting: Java (beginner)
-- **Technologies known**: Okta, Cisco Duo, ForgeRock Open AM, SailPoint ISC, SailPoint IIQ, Saviyant, Swivel Secure, OneLogin, BeyondTrust, MiniOrange, Sectona.
+- **SailPoint IIQ:** Application onboarding, JML lifecycle, access certifications, RBAC, SoD  
+- **IAM / IGA / PAM:** Enterprise-scale identity governance and privileged access management  
+- **SSO & MFA:** Okta, Cisco Duo, OneLogin (SAML, OAuth, OIDC)  
+- **PAM:** BeyondTrust (Password Safe, PRA, EPM), Sectona  
+- **Directories & Platforms:** Microsoft Entra ID (Azure AD), Active Directory, Linux, AWS, OCI  
+
+---
+## 🔹 Technical Skills
+
+### Identity Governance & IAM
+- Joiner–Mover–Leaver (JML) lifecycle automation  
+- Application onboarding (AD, JDBC, Delimited files)  
+- Access certifications & manager campaigns  
+- Role-Based Access Control (RBAC)  
+- Segregation of Duties (SoD)  
+- Provisioning, aggregation & reconciliation  
+- Custom rules, workflows & reports (SailPoint IIQ)
+
+### Authentication & Federation
+- SAML 2.0, OAuth 2.0, OpenID Connect (OIDC)  
+- Single Sign-On (SSO) & Multi-Factor Authentication (MFA)  
+- LDAP, Kerberos
+  
+### Directories & Infrastructure
+- Microsoft Active Directory  
+- Microsoft Entra ID (Azure AD)  
+- Public Key Infrastructure (PKI)
+
+### Cloud & Platforms
+- AWS  
+- Oracle Cloud Infrastructure (OCI)  
+- Microsoft Azure  
+
+### Security & Systems
+- Networking fundamentals (OSI model)  
+- Firewall & network security basics  
+- Linux administration  
+- MySQL  
+
+### Scripting & Automation
+- Java (Beginner – rules, logic, customization)
+
+### Technologies known
+SailPoint IIQ, SailPoint ISC, Okta, Cisco Duo, ForgeRock Open AM,Saviyant, Swivel Secure, OneLogin, BeyondTrust, MiniOrange, Sectona.
 
 ---
 
-## **Experience**
+## 🔹 Professional Experience
+
+### **Senior IAM Engineer – Wipro Limited**  
+📍 Pune, India | **Nov 2024 – Present**
+- Led **end-to-end application onboarding** in SailPoint IIQ including entitlement mapping and custom rules  
+- Designed **NIST-aligned manager certification campaigns** for 15+ applications with automated remediation  
+- Conducted requirement-gathering with application owners and stakeholders  
+- Provided **Tier 2/3 production support**, achieving 95%+ first-call resolution  
+- Monitored environment health, workflows, and task schedules ensuring **99.5% uptime**  
+- Reduced manual provisioning effort by **40%** through process automation  
+
+---
+
+### **Senior Security Engineer (IAM Specialist) – Inspira Enterprise**  
+📍 Pune, India | **Feb 2022 – Nov 2024**
+
+#### **SailPoint IIQ Implementation – BFSI Client (Middle East)**
+- Deployed **SailPoint IIQ 8.3** across Dev, UAT, and Prod for **5,000+ users**  
+- Implemented automated **JML lifecycle workflows**, reducing manual provisioning by **70%**  
+- Onboarded AD, JDBC, and file-based applications with custom correlation logic  
+- Developed custom rules for provisioning, account correlation, and policy enforcement  
+- Performed root-cause analysis and implemented permanent fixes  
+
+#### **Okta SSO/MFA Implementation – Energy Sector Client (Australia)**
+- Administered Okta SSO/MFA for **20+ enterprise applications**  
+- Implemented SAML integrations (Salesforce, Jira, Office 365, VPNs)  
+- Reduced unauthorized access incidents by **85%** via MFA policies  
+- Integrated Active Directory with HA agents achieving **99.9% uptime**  
+
+#### **Additional Contributions**
+- Led IAM PoCs for **OneLogin, MiniOrange, Cisco Duo**  
+- Mentored **5+ junior engineers** on IAM fundamentals  
+- Conducted technical interviews for IAM roles  
+
+---
+
+### **Software Security Trainee – Algebra Security Solutions**  
+📍 Pune, India | **Dec 2021 – Feb 2022**
+- Hands-on training in IAM fundamentals, Okta administration, and SSO  
+- Exposure to access control models and security best practices  
+
+---
+
+### **Earlier Engineering Experience (2017 – 2021)**
+**Electronics Engineer – PCB Design & Manufacturing**
+- PCB design optimization and CNC workflow automation  
+- Improved manufacturing efficiency by **25%**
+
+
 
 | **Serial No.** | **Role & Organization**                                             | **Duration**                   | **Key Responsibilities**                                                                                                     |
 |----------------|---------------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
