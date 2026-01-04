@@ -115,6 +115,7 @@ SailPoint IIQ, SailPoint ISC, Okta, Cisco Duo, ForgeRock Open AM,Saviyant, Swive
 **Electronics Engineer – PCB Design & Manufacturing**
 - PCB design optimization and CNC workflow automation
 - Improved manufacturing efficiency by 25%
+  
 ---
 
 ## 🔹 Certifications
