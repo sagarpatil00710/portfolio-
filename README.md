@@ -115,53 +115,54 @@ SailPoint IIQ, SailPoint ISC, Okta, Cisco Duo, ForgeRock Open AM,Saviyant, Swive
 **Electronics Engineer – PCB Design & Manufacturing**
 - PCB design optimization and CNC workflow automation  
 - Improved manufacturing efficiency by **25%**
+---
 
+## 🔹 Certifications
 
+### IAM / Identity Governance
+- **Microsoft Identity & Access Administrator (SC-300)** – Jan 2026  
+- **SailPoint Identity Security Professional** – Dec 2025  
+- **Saviynt Identity Security for AI Age (ISAA)** – Oct 2025  
+- **SailPoint Identity Security Leader** – Feb 2025  
+- **SailPoint IIQ Certified Associate** – Dec 2024  
 
-| **Serial No.** | **Role & Organization**                                             | **Duration**                   | **Key Responsibilities**                                                                                                     |
-|----------------|---------------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **1.**         | Senior IAM Engineer, Wipro Limited, Pune, India                     | November 2024 – Present         | - Lead SailPoint IIQ implementation.<br> - Migration from OIM to IIQ.<br> - Managing IAM solutions for BFSI projects.<br> - Cross-functional team collaboration. |
-| **2.**         | Senior Security Engineer, Inspira Enterprise, Pune, India          | February 2022 – November 2024   | - Implemented IAM solutions for telecommunications and transportation sectors in the Middle East.<br> - Leading Okta SSO/MFA for the energy sector in Australia and SailPoint IIQ for BFSI sector in the Middle East.<br> - Led R&D and practice building on 3 IAM technologies.<br> - Trained and mentored new team members.<br> - Interviewed candidates for IAM roles. |
-| **3.**         | Software Security Trainee, Algebra Security Solutions (Merged into Inspira Enterprises), Pune, India | December 2021 – February 2022   | - Gained knowledge of network security, information security, and Okta Access Management solutions.                           |
-| **4.**         | Electronics Engineer (Design Dept.), Electronics India, Pune, India | July 2018 – August 2021         | - Edited Gerber files and optimized PCB panels.<br> - Created CNC drilling programs.                                        |
-| **5.**         | Electronic Engineer (CAD-CAM Dept.), Shogini Technoarts Pvt. Ltd., Pune, India | December 2017 – May 2018        | - Worked on single and double-side PCBs.<br> - Edited Gerber files for production.                                          |
-| **6.**         | Electronic Engineer (CAD-CAM Dept.), Softind Solutions LLP, Pune, India | January 2017 – October 2017     | - Worked on single and double-side PCBs.<br> - Edited Gerber files for production compatibility.                              |
-                          
+### Privileged Access Management (PAM)
+- **BeyondTrust Privileged Remote Access Administrator** – Feb 2025  
+- **BeyondTrust Endpoint Privilege Management (Windows)** – Jan 2025  
+- **BeyondTrust Certified Implementation Engineer (Password Safe)** – Nov 2024  
+- **BeyondTrust Password Safe Administrator** – Sep 2024  
+- **BeyondTrust AD Bridge Administrator** – Dec 2024  
+- **Sectona Implementation Engineer** – Jul 2023  
+- **Cisco Duo Certified L1 Administrator** – Feb 2024  
 
+### Cloud & Access Platforms
+- **OCI Architect Associate** – Oct 2025  
+- **OCI Foundations Associate** – Sep 2025  
+- **AWS Solutions Architect – Associate** – Jul 2022  
+- **Azure Active Directory Masterclass** – Mar 2024  
+- **Okta Certified Professional** – Sep 2022  
+- **Swivel Secure Access Manager** – May 2022  
+
+### Security
+- **Certified Ethical Hacker (CEH v11)** – Dec 2021  
 
 ---
 
-## Education
-
-**B.E. (Electronics & Telecommunication)**  
-Savitribai Phule Pune University, India – June 2016
-
----
-
-## Certifications/Technical Accreditations
-## Certifications and Technical Accreditations
-
-| **Serial No.** | **Title**                                     | **Certification Provider** | **Month and Year of Completion** |
-|----------------|-----------------------------------------------|----------------------------|----------------------------------|
-| 1.             | Privileged Remote Access Administrator        | BeyondTrust                | February 2025                   |
-| 2.             | SailPoint Identity Security Leader            | SailPoint                  | February 2025                   |
-| 3.             | Endpoint Privilege Management - Windows Administrator | BeyondTrust            | January 2025                    |
-| 4.             | SailPoint IIQ Certified Associate             | SailPoint                  | December 2024                   |
-| 5.             | AD Bridge Administrator                       | BeyondTrust                | December 2024                   |
-| 6.             | Certified Implementation Engineer (Password Safe) | BeyondTrust              | November 2024                   |
-| 7.             | Password Safe Administrator                   | BeyondTrust                | September 2024                  |
-| 8.             | SailPoint IIQ Developer                       | Inspira (Internal assessment) | March 2024                    |
-| 9.             | Certified L1 Administrator                    | Cisco Duo Security         | February 2024                   |
-| 10.            | Sectona Implementation Engineer               | Sectona                    | July 2023                       |
-| 11.            | Okta Certified Professional                   | Okta                       | September 2022                  |
-| 12.            | AWS Certified Solutions Architect - Associate | AWS                        | July 2022                       |
-| 13.            | Swivel Secure Access Manager                  | Swivel Secure              | May 2022                        |
-| 14.            | Certified Ethical Hacker (V11)                | EC – Council               | December 2021                   |
-
+## 🔹 Achievements
+- Appreciation Certificate from **Wipro** for IAM project excellence  
+- **2nd Place** – Inspira Enterprise Indoor Chess Competition  
 
 ---
 
-## Languages
+## 🔹 Education
+
+**Bachelor of Engineering (B.E.) – Electronics & Telecommunication**  
+Savitribai Phule Pune University, India  
+🎓 Graduated: **June 2016**
+
+---
+
+## 🔹 Languages
 
 - English  
 - Hindi  
@@ -170,28 +171,23 @@ Savitribai Phule Pune University, India – June 2016
 
 ---
 
-## Milestones / Achievements
-
-- Won 2nd Place in Inspira Indoor Chess Competition  
-
----
-
 ## Badges
 
 <div class="badge-carousel">
-  <img src="assets/images/BT.png" alt="BT Badge" class="badge">
-  <img src="assets/images/BTadmin.png" alt="BT Admin Badge" class="badge">
-  <img src="assets/images/Cisco.png" alt="Cisco Badge" class="badge">
-  <img src="assets/images/FR.png" alt="FR Badge" class="badge">
-  <img src="assets/images/miniorange.png" alt="MiniOrange Badge" class="badge">
-  <img src="assets/images/okta.png" alt="Okta Badge" class="badge">
-  <img src="assets/images/Sectona.png" alt="Sectona Badge" class="badge">
-  <img src="assets/images/Onelogin.png" alt="Onelogin Badge" class="badge">
-  <img src="assets/images/BTADadmin.png" alt="BT ADBRIDGE Admin Badge" class="badge">
-  <img src="assets/images/BTPRA.png" alt="BTPRA Admin Badge" class="badge">
-  <img src="assets/images/BT_EPM_WINDOWS.png" alt="BT_EPM_WINDOWS Admin Badge" class="badge">
-  <img src="assets/images/SailpointIIQAssociate.png" alt="SailpointIIQAssociate Badge" class="badge">
-  <img src="assets/images/Sailpointleader.png" alt="Sailpointleader Badge" class="badge">
+<img src="assets/images/Sailpointleader.png" alt="Sailpointleader Badge" class="badge">
+<img src="assets/images/SailpointIIQAssociate.png" alt="SailpointIIQAssociate Badge" class="badge">
+<img src="assets/images/ISCPro.png" alt="SailpointISCProfessional Badge" class="badge">
+<img src="assets/images/ISAA.png" alt="ISAA Badge" class="badge">
+<img src="assets/images/OCI25CAA.jpg" alt="OCI AA Badge" class="badge">
+<img src="assets/images/OCI25FNDCFA.jpeg" alt="OCI CFA Badge" class="badge">
+<img src="assets/images/sc300.png" alt="SC300 Badge" class="badge">
+<img src="assets/images/okta.png" alt="Okta Badge" class="badge">
+<img src="assets/images/Sectona.png" alt="Sectona Badge" class="badge">
+<img src="assets/images/BT_EPM_WINDOWS.png" alt="BT_EPM_WINDOWS Admin Badge" class="badge">
+<img src="assets/images/BTPRA.png" alt="BTPRA Admin Badge" class="badge">
+<img src="assets/images/BTADadmin.png" alt="BT ADBRIDGE Admin Badge" class="badge">
+<img src="assets/images/BTadmin.png" alt="BT Admin Badge" class="badge">
+<img src="assets/images/BT.png" alt="BT Badge" class="badge">
 </div>
 
 
