@@ -176,13 +176,12 @@ Savitribai Phule Pune University, India
 
 <!-- Badge Carousel -->
 <div class="badge-carousel">
-
   <div class="badge-track">
 
     <!-- Badges -->
     <img src="assets/images/Sailpointleader.png" alt="SailPoint Identity Security Leader" class="badge">
     <img src="assets/images/SailpointIIQAssociate.png" alt="SailPoint IIQ Associate" class="badge">
-    <img src="assets/images/ISCPro.png" alt="SailPoint ISC Professional" class="badge">
+    <img src="assets/images/ISCPro.png" alt="SailPoint Identity Security Professional" class="badge">
     <img src="assets/images/ISAA.png" alt="Saviynt ISAA" class="badge">
     <img src="assets/images/OCI25CAA.jpg" alt="OCI Architect Associate" class="badge">
     <img src="assets/images/OCI25FNDCFA.jpeg" alt="OCI Foundations Associate" class="badge">
@@ -193,9 +192,9 @@ Savitribai Phule Pune University, India
     <img src="assets/images/BTPRA.png" alt="BeyondTrust PRA" class="badge">
     <img src="assets/images/BTADadmin.png" alt="BeyondTrust AD Bridge" class="badge">
     <img src="assets/images/BTadmin.png" alt="BeyondTrust Admin" class="badge">
-    <img src="assets/images/BT.png" alt="BeyondTrust" class="badge">
+    <img src="assets/images/BT.png" alt="BeyondTrust Badge" class="badge">
 
-    <!-- Duplicate for infinite scroll -->
+    <!-- Duplicate set for seamless infinite scroll -->
     <img src="assets/images/Sailpointleader.png" class="badge">
     <img src="assets/images/SailpointIIQAssociate.png" class="badge">
     <img src="assets/images/ISCPro.png" class="badge">
@@ -212,19 +211,13 @@ Savitribai Phule Pune University, India
     <img src="assets/images/BT.png" class="badge">
 
   </div>
-
-  <!-- Scrolling Strip -->
-  <div class="scroll-strip">
-    <div class="scroll-indicator"></div>
-  </div>
-
 </div>
 
 <style>
   .badge-carousel {
     width: 100%;
     overflow: hidden;
-    padding: 16px 0 10px;
+    padding: 16px 0;
     background: #ffffff;
   }
 
@@ -234,14 +227,14 @@ Savitribai Phule Pune University, India
     animation: scroll 25s linear infinite;
   }
 
-  /* Pause everything on hover */
-  .badge-carousel:hover .badge-track,
-  .badge-carousel:hover .scroll-indicator {
+  /* Pause movement on hover */
+  .badge-carousel:hover .badge-track {
     animation-play-state: paused;
   }
 
   .badge {
     width: 90px;
+    height: auto;
     margin: 0 18px;
     flex-shrink: 0;
     transition: transform 0.25s ease, box-shadow 0.25s ease;
@@ -253,30 +246,6 @@ Savitribai Phule Pune University, India
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18);
   }
 
-  /* Bottom strip */
-  .scroll-strip {
-    position: relative;
-    height: 4px;
-    margin-top: 12px;
-    background: #e5e7eb; /* light neutral */
-    border-radius: 4px;
-    overflow: hidden;
-  }
-
-  .scroll-indicator {
-    position: absolute;
-    height: 100%;
-    width: 35%;
-    background: linear-gradient(
-      90deg,
-      #2563eb,
-      #38bdf8,
-      #2563eb
-    );
-    animation: strip-scroll 25s linear infinite;
-    border-radius: 4px;
-  }
-
   @keyframes scroll {
     from {
       transform: translateX(0);
@@ -286,19 +255,9 @@ Savitribai Phule Pune University, India
     }
   }
 
-  @keyframes strip-scroll {
-    from {
-      left: -35%;
-    }
-    to {
-      left: 100%;
-    }
-  }
-
   /* Accessibility */
   @media (prefers-reduced-motion: reduce) {
-    .badge-track,
-    .scroll-indicator {
+    .badge-track {
       animation: none;
     }
     .badge {
@@ -306,6 +265,7 @@ Savitribai Phule Pune University, India
     }
   }
 </style>
+
 
 
 ---
