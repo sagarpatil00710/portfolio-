@@ -216,6 +216,95 @@ Savitribai Phule Pune University, India
   }
 </style>
 
+<!-- ===================== -->
+<!-- CERTIFICATION BADGES -->
+<!-- ===================== -->
+
+<div class="badge-carousel">
+  <div class="badge-track">
+    <img src="assets/images/Sailpointleader.png" alt="SailPoint Identity Security Leader" class="badge">
+    <img src="assets/images/SailpointIIQAssociate.png" alt="SailPoint IIQ Associate" class="badge">
+    <img src="assets/images/ISCPro.png" alt="SailPoint Identity Security Professional" class="badge">
+    <img src="assets/images/ISAA.png" alt="Saviynt ISAA" class="badge">
+    <img src="assets/images/OCI25CAA.jpg" alt="OCI Architect Associate" class="badge">
+    <img src="assets/images/OCI25FNDCFA.jpeg" alt="OCI Foundations Associate" class="badge">
+    <img src="assets/images/sc300.png" alt="Microsoft SC-300" class="badge">
+    <img src="assets/images/okta.png" alt="Okta Certified Professional" class="badge">
+    <img src="assets/images/Sectona.png" alt="Sectona Implementation Engineer" class="badge">
+    <img src="assets/images/BT_EPM_WINDOWS.png" alt="BeyondTrust EPM Windows" class="badge">
+    <img src="assets/images/BTPRA.png" alt="BeyondTrust PRA" class="badge">
+    <img src="assets/images/BTADadmin.png" alt="BeyondTrust AD Bridge" class="badge">
+    <img src="assets/images/BTadmin.png" alt="BeyondTrust Admin" class="badge">
+    <img src="assets/images/BT.png" alt="BeyondTrust Badge" class="badge">
+
+    <!-- Duplicate for seamless loop --> 
+    <img src="assets/images/Sailpointleader.png" class="badge">
+    <img src="assets/images/SailpointIIQAssociate.png" class="badge">
+    <img src="assets/images/ISCPro.png" class="badge">
+    <img src="assets/images/ISAA.png" class="badge">
+    <img src="assets/images/OCI25CAA.jpg" class="badge">
+    <img src="assets/images/OCI25FNDCFA.jpeg" class="badge">
+    <img src="assets/images/sc300.png" class="badge">
+    <img src="assets/images/okta.png" class="badge">
+    <img src="assets/images/Sectona.png" class="badge">
+    <img src="assets/images/BT_EPM_WINDOWS.png" class="badge">
+    <img src="assets/images/BTPRA.png" class="badge">
+    <img src="assets/images/BTADadmin.png" class="badge">
+    <img src="assets/images/BTadmin.png" class="badge">
+    <img src="assets/images/BT.png" class="badge">
+  </div>
+</div>
+
+<style>
+  .badge-carousel {
+    overflow: hidden;
+    width: 100%;
+    padding: 16px 0;
+    background: #ffffff;
+  }
+
+  .badge-track {
+    display: flex;
+    width: max-content;
+    animation: scroll 40s linear infinite;
+  }
+
+  .badge {
+    width: 90px;
+    height: auto;
+    margin: 0 18px;
+    flex-shrink: 0;
+
+    filter: grayscale(100%);
+    transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
+  }
+
+  .badge:hover {
+    transform: scale(1.12);
+    filter: grayscale(0%);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18);
+  }
+
+  @keyframes scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  /* Accessibility: reduce motion */
+  @media (prefers-reduced-motion: reduce) {
+    .badge-track {
+      animation: none;
+    }
+    .badge {
+      transition: none;
+    }
+  }
+</style>
+
 ---
 
 ## Download My Portfolio
