@@ -13,24 +13,40 @@
 
 ## Profile
 
-Seeking to expand my horizons into the ocean of Information Security with a deep focus on Identity lifecycle and governance, Role-based access control (RBAC), Federation technologies (SAML, OAuth, OIDC), Single Sign-On (SSO), Multifactor Authentication (MFA), Security Compliance, and Advisory. A dynamic, hardworking, proactive, and efficient leader with strong teamwork ethic and multitasking skills.
+Identity & Access Management (IAM) professional with 8.5+ years of engineering experience, including 4+ years dedicated to IAM, PAM, and IGA solutions across BFSI and enterprise environments. Skilled in designing secure, scalable identity frameworks, managing access governance, and enabling compliance across cloud, hybrid, and on-premise infrastructures.
 
 ---
+## Core Competencies:
 
+- SailPoint IIQ – End-to-end application onboarding, JML lifecycle automation, access certifications, RBAC, SoD, custom rules, and policy enforcement
+
+- IAM / PAM / IGA – Enterprise-scale identity governance, privileged access management, workflow automation, and compliance enablement
+
+- SSO & MFA – Implementation and administration using Okta, Cisco Duo, OneLogin; expertise in SAML, OAuth, and OIDC integrations
+
+- PAM Solutions – BeyondTrust (Password Safe, PRA, EPM), Sectona; password vaulting, session management, and privileged account security
+
+- Directories & Platforms – Microsoft Entra ID (Azure AD), Active Directory, Linux, AWS, OCI; hybrid and cloud identity management
+
+- Compliance & Security Frameworks – NIST-aligned certification campaigns, Zero Trust, regulatory adherence, and IAM risk mitigation
+
+- Mentorship & Leadership – Guiding junior engineers, conducting PoCs, and building IAM practice across multiple enterprise projects
+
+---
 ## Skills
 
 - Identity lifecycle and governance: Segregation of Duties (SOD), Role-Based Access Control (RBAC), and Provisioning-Reconciliation.
-- MFA and SSO (Single Sign-On)
-- Access Management
-- SAML and OIDC federation
-- MS Active Directory and LDAP
-- Microsoft Entra ID (Azure Active Directory)
-- Networking (OSI model) and Public Key Infrastructure
+- MFA & SSO: Single Sign-On, Authentication Policies
+- Access Management & Federation: LDAP, Kerberos, SAML, OIDC
+- Cloud & Infrastructure: AWS, OCI, Microsoft Azure, PKI
+- Networking & Security: OSI model, firewall, VPNs, network security basics
+- Linux & Database: Linux administration, MySQL
+- Scripting & Automation: Java, Custom Rules & Workflows in SailPoint IIQ
 - Firewall and Network Security
 - Linux
 - MySQL
 - Scripting: Java (beginner)
-- **Technologies known**: Okta, Cisco Duo, ForgeRock Open AM, CIAM, SailPoint IIQ, Swivel Secure, OneLogin, BeyondTrust, MiniOrange, Sectona.
+- **Technologies known**: Okta, Cisco Duo, ForgeRock Open AM, SailPoint ISC, SailPoint IIQ, Saviyant, Swivel Secure, OneLogin, BeyondTrust, MiniOrange, Sectona.
 
 ---
 
