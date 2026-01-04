@@ -237,7 +237,7 @@ Savitribai Phule Pune University, India
     <img src="assets/images/BTadmin.png" alt="BeyondTrust Admin" class="badge">
     <img src="assets/images/BT.png" alt="BeyondTrust Badge" class="badge">
 
-    <!-- Duplicate for seamless loop --> 
+    <!-- Duplicate for seamless loop -->
     <img src="assets/images/Sailpointleader.png" class="badge">
     <img src="assets/images/SailpointIIQAssociate.png" class="badge">
     <img src="assets/images/ISCPro.png" class="badge">
@@ -275,13 +275,11 @@ Savitribai Phule Pune University, India
     margin: 0 18px;
     flex-shrink: 0;
 
-    filter: grayscale(100%);
-    transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
 
   .badge:hover {
     transform: scale(1.12);
-    filter: grayscale(0%);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18);
   }
 
@@ -294,7 +292,7 @@ Savitribai Phule Pune University, India
     }
   }
 
-  /* Accessibility: reduce motion */
+  /* Accessibility */
   @media (prefers-reduced-motion: reduce) {
     .badge-track {
       animation: none;
